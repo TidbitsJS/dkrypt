@@ -1,2 +1,6 @@
 #vscode
 .vscode
+
+#secrets
+secret.js
+
