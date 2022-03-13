@@ -1,4 +1,4 @@
-import { Navbar } from "./components";
+import { Footer, Navbar, Services } from "./components";
 
 const App = () => {
   return (
@@ -6,6 +6,8 @@ const App = () => {
       <div className="gradient-bg-welcome">
         <Navbar />
       </div>
+      <Services />
+      <Footer />
     </div>
   );
 };
